@@ -22,7 +22,7 @@
         android:layout_below="@id/foto_profil"
         android:layout_centerHorizontal="true"
         android:text="@string/nama_profil"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="20sp" />
 
     <TextView
@@ -32,7 +32,7 @@
         android:layout_below="@id/nama_profil"
         android:layout_centerHorizontal="true"
         android:text="@string/email_profil"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="12sp" />
 
 </RelativeLayout>
