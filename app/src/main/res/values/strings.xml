@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="tanks_name">Nama Tank</string>
+    <string name="tanks_origin">Asal Tank</string>
+    <string name="action_about">About me</string>
+    <string name="nama_profil">Aldion Sumampouw</string>
+    <string name="email_profil">aldionsumampouw@gmail.com</string>
+    <string name="title_activity_child">tentang saya</string>
+    <string name="detail_tank">Detail Tank</string>
+</resources>
