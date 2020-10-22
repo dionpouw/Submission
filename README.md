@@ -2,7 +2,7 @@
 
 Aplikasi ini berisikan 10 daftar tank yang populer pada masa Perang Dunia Ke II dari beberapa negara yang terlibat didalamnya.
 
-![](https://raw.githubusercontent.com/dionpouw/Submission/master/1.jpeg)
+![](https://raw.githubusercontent.com/dionpouw/Submission/master/11.jpeg)
 
 Aplikasi menampilkan 10 tank dengan menggunakan Recyclerview yang ketika salah satu tank dipilih akan bernavigasi ke menu detailnya.
 
