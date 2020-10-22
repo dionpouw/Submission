@@ -10,4 +10,4 @@ Aplikasi menampilkan 10 tank dengan menggunakan Recyclerview yang ketika salah s
 
 Ketika tank "Tiger II" ditekan maka akan menampilan detail dari tank tersebut.
 
-Aplikasi ini saya buat dikarenakan saya suka dengan konten sejarah Perang Dunia ke-II
+Aplikasi ini saya buat dikarenakan saya menyukai konten sejarah Perang Dunia ke-II
