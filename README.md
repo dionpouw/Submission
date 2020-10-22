@@ -8,4 +8,6 @@ Aplikasi menampilkan 10 tank dengan menggunakan Recyclerview yang ketika salah s
 
 ![](https://raw.githubusercontent.com/dionpouw/Submission/master/22.jpg)
 
-Ketika tank "Tiger II" ditekan maka akan menampilan detail dari tank tersebut. Aplikasi ini saya buat dikarenakan saya suka dengan konten sejarah Perang Dunia ke-II
+Ketika tank "Tiger II" ditekan maka akan menampilan detail dari tank tersebut.
+
+Aplikasi ini saya buat dikarenakan saya suka dengan konten sejarah Perang Dunia ke-II
